@@ -17,4 +17,5 @@
 # Description
 
 Make a backup of your database before applying SQL.
+
 If you encounter a bug please report it to me from the AzerothCore discord by tagging me.
