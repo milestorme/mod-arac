@@ -1,5 +1,5 @@
 # ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
-- Latest build status with azerothcore: [Build Status](https://travis-ci.org/azerothcore/azerothcore-wotlk.svg)](https://travis-ci.org/azerothcore/azerothcore-wotlk)
+- Latest build status with azerothcore: [[Build Status](https://travis-ci.org/azerothcore/azerothcore-wotlk.svg)](https://travis-ci.org/azerothcore/azerothcore-wotlk)
 
 # mod-arac
 
