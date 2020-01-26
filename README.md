@@ -1,30 +1,20 @@
-# Module & Lua Script info
+# ARAC - All Class All Races
 
-- Name: Skeleton
-- Author: AzerothCore
+- Name: mod-arac
+- Author: Source Web
+- Update : iThorgrim (iThorgrim-hub)
 - Module Skeleton:
-  + Repository: https://github.com/azerothcore/skeleton-module
-  + Download: https://github.com/azerothcore/skeleton-module/archive/master.zip
-- Lua_Script Skeleton:
-  + Repository: https://github.com/azerothcore/skeleton-lua_script
-  + Download: https://github.com/azerothcore/skeleton-lua_script/archive/master.zip
+  + Repository: https://github.com/iThorgrim-hub/mod-arac
+  + Download: https://github.com/iThorgrim-hub/mod-arac/archive/0.0.1.zip
 - License: AGPL
 
 # Module integration
 
-- AzerothCore hash/commit compliance: 90ed254
-- Includes configuration (.conf)?: Yes, copied by CMake
-- Includes SQL patches?: No
-- CMake hooks used:
-    + AFTER_WORLDSERVER_CMAKE
-- Core hooks used:
-    + PlayerScript: OnLogin
-    + WorldScript: OnBeforeConfigLoad
-
-# Lua Script integration
-- Includes configuration (.ext)?: Yes, copied by User
-- Includes SQL patches?: No
+- AzerothCore hash/commit compliance: 35b6bed
+- Includes configuration (.conf)?: No
+- Includes SQL patches?: Yes
 
 # Description
 
-A skeleton module where you can start to develop yours
+Make a backup of your database before applying SQL.
+If you encounter a bug please report it to me from the AzerothCore discord by tagging me.
