@@ -1,21 +1,35 @@
-# ARAC - All Class All Races
+# ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
+- Latest build status with azerothcore: [Build Status](https://travis-ci.org/azerothcore/mod-weekend-xp.svg?branch=master)
 
-- Name: mod-arac
-- Author: Source Web
-- Update : iThorgrim (iThorgrim-hub)
-- Module Skeleton:
-  + Repository: https://github.com/iThorgrim-hub/mod-arac
-  + Download: https://github.com/iThorgrim-hub/mod-arac/archive/0.0.1.zip
-- License: AGPL
+# mod-arac
 
-# Module integration
+## Description
+Allows you to create any class/races combo.
 
-- AzerothCore hash/commit compliance: 35b6bed
-- Includes configuration (.conf)?: No
-- Includes SQL patches?: Yes
 
-# Description
+## How to use ingame
+You just need to create a super undead paladin!
 
-Make a backup of your database before applying SQL.
+## Requirements
 
-If you encounter a bug please report it to me from the AzerothCore discord by tagging me.
+This script needs an up-to-date version of AzerothCore.
+
+Requirement :
+  - AzerothCore
+
+
+## Installation
+
+```
+1) All you have to do is make a backup of your DB.
+2) And, then apply the .SQL files in your DB.
+```
+
+## Credits
+
+* [Web](https://google.com)
+* [Me](https://github.com/iThorgrimHub)
+
+- [AzerothCore Repository](https://github.com/azerothcore)
+- [AzerothCore Website](http://azerothcore.org/)
+- [AzerothCore Dicord](https://discord.gg/w9WeYWX)
